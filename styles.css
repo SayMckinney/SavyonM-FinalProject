@@ -1,0 +1,39 @@
+body{padding: 5em;
+    background-color: lightyellow;}
+
+h1,h2,h4{text-align: center;}
+
+h1{color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 5em;
+    font-style: italic;}
+    
+
+h2{color: red;
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    font-style: bold;}
+
+h3{padding-left: 26.2em;}
+
+h4{color: black;
+    font-size: 1.5em;}
+
+p{width:750px;}
+
+a.page{width:750px;
+	color: #000;
+	text-decoration: none;
+	font-size: 1.5em;
+    font-style: italic;
+    text-align: right;
+}
+
+
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p, a.page{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 1em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
